@@ -18,7 +18,7 @@
 
 ### 🧠 About Me
 
-- 💻 Final Year AI/ML Engineering Student  
+- 💻 AI/ML Engineer  
 - 🧹 Building a **Smart Cleaning Bot** with **Edge AI** (Raspberry Pi + Arduino + TFLite)  
 - 🔍 Passionate about **Computer Vision**, **Reinforcement Learning**, and **AI for Robotics**  
 - 🌐 Comfortable with **YOLOv5**, **EfficientDet-Lite**, **TensorFlow Lite**, and **PyTorch**
@@ -34,7 +34,7 @@
   Automating candidate evaluation using ML and NLP-based analytics
 
 - 🗣️ **Voice Assistant with RL**  
-  GPT-2-based assistant that learns from feedback, can describe webcam/screen
+  Assistant that learns from feedback, can describe webcam/screen
 
 ---
 
@@ -63,14 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=AlyyanAhmed21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyyanAhmed21&layout=compact&theme=tokyonight&langs_count=8" />
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -88,19 +80,10 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlyyanAhmed21/AlyyanAhmed21/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlyyanAhmed21/AlyyanAhmed21/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlyyanAhmed21/AlyyanAhmed21/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ### 📫 Want to Collaborate?
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/alyyan-ahmed-048268363/) or shoot me an [email](mailto:your_email@gmail.com) — always up for exciting AI projects and collaborations! 🚀
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/alyyan-ahmed-048268363/) or shoot me an [email](alyyanawan19@gmail.com) — always up for exciting AI projects and collaborations! 🚀
 
 ---
 
