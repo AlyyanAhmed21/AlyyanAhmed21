@@ -21,7 +21,7 @@
 - 💻 AI/ML Engineer  
 - 🧹 Building a **Smart Cleaning Bot** with **Edge AI** (Raspberry Pi + Arduino + TFLite)  
 - 🔍 Passionate about **Computer Vision**, **Reinforcement Learning**, and **AI for Robotics**  
-- 🌐 Comfortable with **YOLOv5**, **EfficientDet-Lite**, **TensorFlow Lite**, and **PyTorch**
+- 🌐 Comfortable with **YOLOv8**, **EfficientDet**, **TensorFlow**, and **PyTorch**
 
 ---
 
