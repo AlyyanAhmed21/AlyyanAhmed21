@@ -44,13 +44,15 @@
 - 📦 Docker for ML Model Deployment  
 - 🚀 MLOps and CI/CD Pipelines  
 - 🧭 Advanced Path Planning for Robotics
+- 🧠 MLFlow and DVC
 
 ---
 
 ### 💬 Ask Me About
 
 - AI & Machine Learning Projects  
-- YOLO and Object Detection  
+- YOLO and Object Detection
+- MLflow, DVC and End to End Deep Learning Projeccts
 - Edge Computing with Raspberry Pi  
 - Model Optimization (TFLite, ONNX, etc.)  
 - Arduino-based Hardware Integration  
