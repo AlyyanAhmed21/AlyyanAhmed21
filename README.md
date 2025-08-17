@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=3000&color=08F7FE&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Alyyan+Ahmed!;AI+%7C+ML+%7C+CV+%7C+Robotics+Engineer;Building+Smart+AI+Systems+for+the+Real+World)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=3000&color=08F7FE&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Alyyan+Ahmed!;AI+%7C+ML+%7C+CV;Building+Smart+AI+Systems+for+the+Real+World)
 
 </div>
 
@@ -77,6 +77,8 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AlyyanAhmed21)
 
 ---
 
