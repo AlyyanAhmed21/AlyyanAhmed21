@@ -1,93 +1,82 @@
-<div align="center">
+<h1 align="center">Hey 👋, I'm Alyyan Ahmed</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=3000&color=08F7FE&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Alyyan+Ahmed!;AI+%7C+ML+%7C+CV;Building+Smart+AI+Systems+for+the+Real+World)
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyyan-ahmed-048268363/)
-[![GitHub Followers](https://img.shields.io/github/followers/AlyyanAhmed21?label=Follow&style=social)](https://github.com/AlyyanAhmed21)
-[![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
-
-</div>
+<p align="center">
+  <b>AI & ML Engineer • Computer Vision • MLOps • Agentic AI</b>
+</p>
 
 ---
 
-### 🧠 About Me
+## 🌐 Portfolio
 
-- 💻 AI/ML Engineer  
-- 🧹 Building a **Smart Cleaning Bot** with **Edge AI** (Raspberry Pi + Arduino + TFLite)  
-- 🔍 Passionate about **Computer Vision**, **Reinforcement Learning**, and **AI for Robotics**  
-- 🌐 Comfortable with **YOLOv8**, **EfficientDet**, **TensorFlow**, and **PyTorch**
+<p align="center">
+  <a href="https://portfolio2-0-nine-psi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-08F7FE?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
----
-
-### 🔭 Projects I'm Proud Of
-
-- 🤖 **Smart Cleaning Bot**  
-  AI-powered robot using TFLite models to detect and clean trash autonomously
-
-- 🧠 **AI Recruitment System**  
-  Automating candidate evaluation using ML and NLP-based analytics
-
-- 🗣️ **Voice Assistant with RL**  
-  Assistant that learns from feedback, can describe webcam/screen
 
 ---
 
-### 🌱 Currently Learning
+## 🧠 About Me
 
-- 🧠 Reinforcement Learning (RL)  
-- 📦 Docker for ML Model Deployment  
-- 🚀 MLOps and CI/CD Pipelines  
-- 🧭 Advanced Path Planning for Robotics
-- 🧠 MLFlow and DVC
-
----
-
-### 💬 Ask Me About
-
-- AI & Machine Learning Projects  
-- YOLO and Object Detection
-- MLflow, DVC and End to End Deep Learning Projeccts
-- Edge Computing with Raspberry Pi  
-- Model Optimization (TFLite, ONNX, etc.)  
-- Arduino-based Hardware Integration  
+- 💻 AI/ML Engineer passionate about **Computer Vision, Generative AI, and Agentic AI**  
+- 🚀 Experienced in **end-to-end MLOps**: experiment tracking, CI/CD, model deployment, and monitoring  
+- ⚡ Skilled in building **production-grade AI systems** for web, edge devices, and cloud platforms  
+- 🔍 Exploring **Advanced RAG pipelines**, **LangChain/LangGraph**, and **Agentic Workflows**  
 
 ---
 
-### ⚡ Fun Fact
+## 🔭 Highlight Projects
 
-> I test internet speed by searching "food" on Google — if it loads, I'm online. 🍕⚡
+- 😀 **Facial Emotion Recognition (MLOps)** — End-to-end pipeline with DVC, MLflow, GitHub Actions, Hugging Face Spaces, and Docker   
+- 🩺 **Pneumonia Detection** — CNN-based classification model for chest X-rays (Keras/TensorFlow)  
+- 🫁 **Chest X-ray Classification** — Multi-class model (Normal vs. Pneumonia vs. TB) with PyTorch  
+- 🤖 **Smart Cleaning Bot** — Edge AI on Raspberry Pi + Arduino with TFLite for autonomous trash detection  
 
 ---
 
+## 🌱 Currently Learning
+
+- 🔎 **Advanced RAG techniques** with LangChain & LangGraph  
+- 📦 **LLMOps** (fine-tuning, serving, optimizing LLMs)  
+- ⚙️ **Agentic AI design patterns** and tool integration  
+- 🛠️ Scaling **AI deployment with Docker & FastAPI**  
+
+---
+
+## 💬 Ask Me About
+
+- 🖼️ Computer Vision (YOLO, EfficientDet, OpenCV)  
+- ⚡ Generative AI & LLMs (LangChain, LangGraph, RAG, fine-tuning)  
+- 🛠️ MLOps (DVC, MLflow, GitHub Actions, CI/CD, Docker)  
+- 🌍 Edge AI (Raspberry Pi, Arduino, TFLite optimization)  
+
+---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TFLite-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=YOLO&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,docker,git,linux,raspberrypi,arduino" />
 </p>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AlyyanAhmed21)
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alyyan-ahmed-048268363/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alyyanawan19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AlyyanAhmed21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-
-### 📫 Want to Collaborate?
-
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/alyyan-ahmed-048268363/) or shoot me an [email](alyyanawan19@gmail.com) — always up for exciting AI projects and collaborations! 🚀
-
----
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlyyanAhmed21&style=flat-square&color=08F7FE" />
+</p>
