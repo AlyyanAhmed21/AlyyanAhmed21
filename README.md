@@ -1,121 +1,93 @@
-<!-- ========================= -->
-<!--         HEADING           -->
-<!-- ========================= -->
-<h1 align="center">Hi 👋, I'm Alyyan Ahmed</h1>
-
-<br><br>
+<h1 align="center">Hey 👋, I'm Alyyan Ahmed</h1>
+<p align="center"><b>AI & ML Engineer • Computer Vision • MLOps • Agentic AI</b></p>
 
 <!-- ========================= -->
-<!--        TAGLINE            -->
+<!--       PORTFOLIO BTN      -->
 <!-- ========================= -->
-<h3 align="center">AI & ML Engineer • Computer Vision • MLOps • Agentic AI</h3>
-
 <p align="center">
   <a href="https://portfolio2-0-nine-psi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-08F7FE?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀%20View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=08F7FE" />
   </a>
 </p>
 
-<!-- Right-side GIF -->
-<img align="right" alt="Coding" width="340" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<br>
+
+<!-- ========================= -->
+<!--         ABOUT ME         -->
+<!-- ========================= -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">🧠 About Me</h3>
+
+<img align="right" alt="Coding Animation" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1naDU5bW5ndWRjZ2NpMmk5MGFrMHpob2wyMTN4aWFjYXF0aW9pNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/giphy.gif" />
+
+
+- 💻 AI/ML Engineer passionate about **Computer Vision, Generative AI, and Agentic AI**  
+- 🚀 Experienced in **end-to-end MLOps** (DVC, MLflow, CI/CD, Docker, Hugging Face Spaces)  
+- ⚡ Skilled in **production-grade AI systems** for cloud and edge devices  
+- 🔍 Exploring **Advanced RAG pipelines, LangChain, LangGraph, and Agentic Workflows**  
 
 <br>
 
 <!-- ========================= -->
-<!--        ABOUT ME           -->
+<!--     PROJECT HIGHLIGHTS   -->
 <!-- ========================= -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
-<h3 align="left">About Me</h3>
-
-- 💻 Passionate about **Computer Vision, Generative AI & Agentic AI**  
-- 🚀 Skilled in **MLOps** (CI/CD, experiment tracking, scalable deployment)  
-- ⚡ Building **production-ready AI systems** for edge, cloud & web  
-- 🔍 Exploring **Advanced RAG**, **LangChain/LangGraph**, and **LLMOps**  
-
-<br>
-
-<!-- ========================= -->
-<!--    HIGHLIGHT PROJECTS     -->
-<!-- ========================= -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">🚀 Highlight Projects</h3>
 
-- 😀 **Facial Emotion Recognition (MLOps)** — End-to-end pipeline with DVC, MLflow, GitHub Actions, Hugging Face Spaces, Docker  
-- 🩺 **Pneumonia Detection** — CNN-based classification for chest X-rays (Keras/TensorFlow)  
-- 🫁 **Chest X-ray Classification** — Multi-class PyTorch model (Normal vs. Pneumonia vs. TB)  
-- 🤖 **Smart Cleaning Bot** — Edge AI with Raspberry Pi + Arduino + TFLite  
+- 😀 **Facial Emotion Recognition (MLOps)** – CI/CD, Docker, Hugging Face deployment  
+- 🎥 **Football Video Analysis App** – YOLOv8, Flask, radar view & ball tracking  
+- 🩺 **Pneumonia Detection** – CNN model on chest X-rays  
+- 🫁 **Chest X-ray Classification** – PyTorch multi-class medical imaging  
+- 🤖 **Smart Cleaning Bot** – Raspberry Pi + Arduino + TFLite edge AI  
 
 <br>
 
 <!-- ========================= -->
-<!--      TECH STACK           -->
+<!--    CURRENT LEARNING      -->
 <!-- ========================= -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">🌱 Currently Learning</h3>
+
+- Advanced **RAG** with LangChain & LangGraph  
+- **LLMOps** – fine-tuning & serving LLMs  
+- **Agentic AI design** + tool integration  
+- Scaling deployments with **Docker + FastAPI**  
+- Robotics **RL + Path Planning**  
+
+<br>
+
+<!-- ========================= -->
+<!--       TECH STACK         -->
+<!-- ========================= -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">🛠️ Tech Stack</h3>
 
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/> 
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.raspberrypi.org/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberrypi" width="40" height="40"/> 
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,docker,git,linux,raspberrypi,arduino" />
 </p>
 
 <br>
 
 <!-- ========================= -->
-<!--     GITHUB STATS          -->
+<!--      GITHUB STATS        -->
 <!-- ========================= -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
-<h3>📊 My GitHub Stats</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3>📊 GitHub Stats</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlyyanAhmed21&show_icons=true&theme=dark&locale=en&layout=compact" alt="alyyan" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlyyanAhmed21&show_icons=true&theme=dark&locale=en&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlyyanAhmed21&show_icons=true&theme=dark&hide=stars,issues" height="150"/>
 </p>
 
-<br><br><br><br><br><br><br>
-
-<p>
-	&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AlyyanAhmed21&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="alyyan" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlyyanAhmed21&theme=dark&border_radius=5" height="150"/>
 </p>
 
-<br><br><br><br><br><br><br>
-
-<p>
-	<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=AlyyanAhmed21&theme=dark&border_radius=2&date_format=j%20M%5B%20Y%5D" alt="alyyan" />
-</p>
-
-<br><br><br><br><br><br><br><br><br><br>
+<br>
 
 <!-- ========================= -->
-<!--     CONTRIBUTION ART      -->
+<!--    CONTRIBUTION SNAKE    -->
 <!-- ========================= -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -124,36 +96,30 @@
 </p>
 
 <!-- ========================= -->
-<!--       CONNECT ME          -->
+<!--        CONNECT ME        -->
 <!-- ========================= -->
-<div align="center"> 
-	<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="75%"> 
-</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">📫 Connect with Me</h3>
+
 <p align="center">
-	<a href="https://www.linkedin.com/in/alyyan-ahmed-048268363/" target="blank">
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-	</a>
-	<a href="mailto:alyyanawan19@gmail.com" target="blank">
-		<img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Email" height="40" width="40" />
-	</a>
-	<a href="https://github.com/AlyyanAhmed21" target="blank">
-		<img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" height="40" width="40" />
-	</a>
+  <a href="https://www.linkedin.com/in/alyyan-ahmed-048268363/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alyyanawan19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AlyyanAhmed21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <br>
 
 <!-- ========================= -->
-<!--        PROFILE VIEWS      -->
+<!--       FOOTER EFFECT      -->
 <!-- ========================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlyyanAhmed21&style=flat-square&color=08F7FE" />
-</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- ========================= -->
-<!--         FOOTER            -->
-<!-- ========================= -->
 <p align="center">
-	<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="footer" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer" />
 </p>
