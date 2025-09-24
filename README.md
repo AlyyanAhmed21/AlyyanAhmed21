@@ -41,7 +41,6 @@
 <h3 align="left">🚀 Highlight Projects</h3>
 
 - 😀 **Facial Emotion Recognition (MLOps)** — End-to-end pipeline with DVC, MLflow, GitHub Actions, Hugging Face Spaces, Docker  
-- 🎥 **Football Video Analysis App (WIP)** — YOLOv8 + Flask + radar view, ball tracking, Voronoi diagram  
 - 🩺 **Pneumonia Detection** — CNN-based classification for chest X-rays (Keras/TensorFlow)  
 - 🫁 **Chest X-ray Classification** — Multi-class PyTorch model (Normal vs. Pneumonia vs. TB)  
 - 🤖 **Smart Cleaning Bot** — Edge AI with Raspberry Pi + Arduino + TFLite  
