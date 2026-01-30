@@ -221,30 +221,11 @@ class AlyyanAhmed:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlyyanAhmed21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlyyanAhmed21&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlyyanAhmed21&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlyyanAhmed21&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Activity Graph" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlyyanAhmed21&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🐍 **Contribution Graph**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AlyyanAhmed21/AlyyanAhmed21/output/github-contribution-grid-snake.sv" alt="Snake animation" />
-</div>
 
 <br/>
 
