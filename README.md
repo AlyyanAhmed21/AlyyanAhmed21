@@ -31,23 +31,21 @@
 
 ```python
 class AlyyanAhmed:
-    role        = "AI/ML Engineer @ iOPTIME Pvt Ltd"
-    location    = "Islamabad, Pakistan"
-
-    focus = [
-        "Computer Vision",
-        "Agentic LLMs",
-        "Production MLOps",
-        "EV Battery Analytics",
-    ]
-
-    stack = {
-        "research_to_prod" : "data -> train -> deploy -> monitor -> iterate",
-        "infra"            : ["Docker", "FastAPI", "MLflow", "DVC", "CI/CD"],
-        "llm_layer"        : ["LangChain", "LangGraph", "RAG", "Agentic Workflows"],
-        "edge"             : ["TFLite", "Raspberry Pi", "Arduino"],
-    }
-
+    def __init__(self):
+        self.role = "AI/ML Engineer"
+        self.focus_areas = [
+        self.focus_areas =[
+            "Computer Vision 👁️",
+            "Agentic LLMs 🤖", 
+            "Production MLOps ⚙️"
+        ]
+        self.expertise = {
+            "pipeline": "research → training → deployment → monitoring",
+            "infrastructure": ["CI/CD", "Docker", "Model Serving", "Edge AI"],
+            "frameworks": ["LangChain", "LangGraph", "RAG", "Agentic Workflows"]
+            "infrastructure":["CI/CD", "Docker", "Model Serving", "Edge AI"],
+            "frameworks":["LangChain", "LangGraph", "RAG", "Agentic Workflows"]
+        }
     def now(self):
         return "shipping ML that actually works in production"
 ```
